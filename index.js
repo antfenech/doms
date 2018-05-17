@@ -9,8 +9,8 @@
   <div className="main">
     <h1>Dom's Nom's</h1>
     <h3>Coming Soon</h3>
-
     <h4>Cell: (650) 868-7531</h4>
+    <img src="logo.png" />
   </div>
 </body>
 </html>
